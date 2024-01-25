@@ -1,0 +1,313 @@
+
+.rec{
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 300px;
+}
+.nav1{
+    width: max-content;
+    color: #31D736;
+    font-size: 30px;
+    font-family: rubik;
+
+}
+.nav2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 150px;
+    font-size: 30px;
+}
+.nav3 span{
+   width: 174px;
+   font-size: 30px;
+   
+}
+.img{
+    width: max-content;
+  margin: auto;
+
+}
+.bx-phone{
+    font-size: 30px;
+  
+   
+}
+.kk{
+    font-size: 20px;
+    position: absolute;
+    top: 630px;
+    left: 390px;
+    color: white;
+    font-family: rubik;
+}
+.gldan1{
+    width: max-content;
+    margin: auto;
+    margin-top: 150px;
+}
+.gldan2{
+    width: max-content;
+    margin: auto;
+    margin-top: 40px;
+    font-family: rubik;
+}
+.ff{
+    text-align: center;
+    width: 893px;
+    font-family: 'Rubik', sans-serif;
+}
+.t{
+    width: max-content;
+    margin: auto;
+    font-family: 'Rubik', sans-serif;   
+    margin-bottom: 30px;
+}
+.gldan3{
+text-align: center;
+
+
+}
+.glavniy{
+   
+    display: flex;
+    margin: auto;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 100px;
+    font-family: rubik;
+    
+
+
+}
+.gl1{
+    text-align: center;
+    font-family: rubik;
+    
+   
+    
+}
+.gl1 img{
+    height: 300px;
+    
+}
+.vv{
+    width: max-content;
+    margin: auto;
+    margin-top: 60px;
+}
+.be{
+    width: max-content;
+    margin: auto;
+    font-family: 'Rubik', sans-serif; 
+    margin-top: 30px;
+}
+.rr{
+    text-align: center;
+    width: max-content;
+    margin: auto;
+    font-family: 'Rubik', sans-serif; 
+    margin-top: 30px;
+}
+.rec{
+    width: 67%;
+    margin: auto;
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: start;
+}
+.rec33 img{
+    height: 664px;
+}
+.odam img{
+
+}
+.odam{
+    width: max-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+margin-top: 60px;
+padding: 5px;
+   border-radius: 50%;
+    border: 3px solid #31D736;
+}
+.t1{
+   text-align: center;
+   width: 1000px; 
+   margin: auto;
+margin-top: 20px;
+font-size: 21px;
+
+
+}
+.t2{
+    width: max-content;
+    margin: auto;
+    margin-top: 20px;
+    font-family: rubik;
+}
+.t3{
+    width: max-content;
+    margin: auto;
+    margin-top: 20px;
+    font-family: rubik;
+}
+  .rec42_1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+margin-top: 60px;
+    border: 2px solid lightskyblue;
+ 
+}
+.katta{
+    width: 1261px;
+    height: 600px;
+    background: url("./Rectangle\ 42\(1\).png");
+    margin: auto;
+   box-shadow: 0 5px 10px gray;
+
+}
+.spam{
+    width: 500px;
+margin: auto;
+text-align: center;
+color: white;
+padding-top: 60px;
+font-family: rubik;
+}
+.spam_1{
+    width: 400px;
+margin: auto;
+text-align: center;
+color: white;
+padding-top: 45px;
+font-family: rubik;
+}
+.but{
+    width: max-content;
+    margin: auto;
+    
+}
+.but button{
+    width: 200px;
+    height: 60px;
+    background-color: #31D736;
+    border: none;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 200px;
+    cursor: pointer;
+    font-family: rubik;
+}
+.matha span{
+    display: flex;
+}
+.simple{
+    width: 70%;
+    margin: auto;
+    padding-top: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.matha{
+    width: 400px;
+    display: flex;
+    align-items: center;
+    padding-top: 50px;
+}
+.span2{
+    margin: auto;
+    margin-top: 20px;
+}
+.n2{
+    margin-top: 10px;
+    font-family: rubik;
+}
+.yozuv{
+    width: max-content;
+    margin: auto;
+    margin-top: 60px;
+    font-family: rubik;
+}
+.as{
+
+    margin: auto;
+    width: max-content;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.as input{
+    width: 200px;
+    height: 55px;
+    border: 1px solid #31D736;
+    border-bottom-left-radius: 15px;
+    border-top-left-radius: 15px;
+}
+.as button{
+    width: 200px;
+    height: 60px;
+    background-color: #31D736;
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 15px;
+ 
+}
+.er{
+     width: 150px;
+    font-size: 30px;
+    left: 400px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   margin: auto;
+   margin-top: 30px;
+   border: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
